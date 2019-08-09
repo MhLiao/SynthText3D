@@ -3,11 +3,11 @@
 ## Introduction
 This is a project that synthesizing scene text images from 3D virtual worlds. 
 
-For more details, please refer to our [arXiv paper](https://128.84.21.199/abs/1907.06007). 
+For more details, please refer to our [arXiv paper](https://arxiv.org/abs/1907.06007). 
 
   
 ## Data
-Comming soon
+We are trying to further improve the quality of the data. Thus, the release of the data will be delayed for several weeks.
 
 ## Code
 Preparing
