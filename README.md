@@ -5,12 +5,12 @@ This is a project that synthesizes scene text images from 3D virtual worlds.
 
 For more details, please refer to our [arXiv paper](https://arxiv.org/abs/1907.06007). 
 
-![Pipeline](./imgs/pipeline.pdf)
+![Pipeline](./imgs/pipeline.jpg)
 
 ## Video Demo
 We made a video demonstration for the synthesis process and visualization. Click the following link to watch the video on [YouTube](https://youtu.be/hI6HfuEkcEw). 
 
-![Sample imgs](./imgs/demo.pdf)
+![Sample imgs](./imgs/demo.jpg)
   
 ## Data
 For our 10K data set synthesized from 30 scenes, download from [Google Drive](https://drive.google.com/open?id=1MIkffNmgPu1kgP6kI-5yJ43sCUki9ORg)
