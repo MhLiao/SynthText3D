@@ -7,6 +7,20 @@ For more details, please refer to our [arXiv paper](https://arxiv.org/abs/1907.0
 
 ![Pipeline](./imgs/pipeline.jpg)
 
+## Performance
+Detection results with different synthetic data. ``5k", ``10k'' and ``800k" indicate the number of images used for training.
+
+|         Training data         | ICDAR 2015 |      |      | ICDAR 2013 |      |      |  MLT |      |      |
+|:-----------------------------:|:----------:|:----:|:----:|:----------:|:----:|:----:|:----:|:----:|:----:|
+|                               |      P     |   R  |   F  |      P     |   R  |   F  |   P  |   R  |   F  |
+|         SynthText 10k         |    40.1    | 54.8 | 46.3 |    54.5    | 69.4 | 61.1 | 34.3 | 41.4 | 37.5 |
+|         SynthText 800k        |    67.1    | 51.0 | 57.9 |    68.9    | 66.4 | 67.7 | 53.9 | 36.5 | 43.5 |
+|            VISD 10k           |    73.3    | 59.5 | 65.7 |    73.2    | 68.5 | 70.8 | 58.9 | 40.0 | 47.6 |
+|      Ours 10k (10 scenes)     |    64.5    | 56.7 | 60.3 |    75.8    | 65.6 | 70.4 | 50.4 | 39.0 | 44.0 |
+|      Ours 10k (20 scenes)     |    69.8    | 58.1 | 63.4 |    76.6    | 66.0 | 70.9 | 51.3 | 41.1 | 45.6 |
+|      Ours 10k (30 scenes)     |    71.2    | 62.1 | 66.3 |    77.1    | 67.3 | 71.9 | 55.4 | 43.3 | 48.6 |
+| Ours 5k (10 scenes) + VISD 5k |    71.1    | 64.4 | 67.6 |    76.5    | 71.4 | 73.8 | 57.6 | 44.2 | 49.8 |
+
 ## Video Demo
 We made a video demonstration for the synthesis process and visualization. Click the following link to watch the video on [YouTube](https://youtu.be/hI6HfuEkcEw). 
 
