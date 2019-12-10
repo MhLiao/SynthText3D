@@ -3,7 +3,7 @@
 ## Introduction
 This is a project that synthesizes scene text images from 3D virtual worlds. 
 
-For more details, please refer to our [arXiv paper](https://arxiv.org/abs/1907.06007). 
+For more details, please refer to our [paper](https://arxiv.org/abs/1907.06007). 
 
 ![Pipeline](./imgs/pipeline.jpg)
 
@@ -84,9 +84,9 @@ See `./Code`. `./Code/Unrealtext-Source` is adapted from [UnrealCV](https://gith
 
 Please cite the paper in your publications if it helps your research:
 
-	@article{liao2019synthtext3d,
+	@article{liao2020synthtext3d,
 	  title={SynthText3D: Synthesizing Scene Text Images from 3D Virtual Worlds},
-	  author={Liao, Minghui and Song, Boyu and He, Minghang and Long, Shangbang and Yao, Cong and Bai, Xiang},
-	  journal={arXiv preprint arXiv:1907.06007},
-	  year={2019}
+	  author={Liao, Minghui and Song, Boyu and Long, Shangbang and He, Minghang and Yao, Cong and Bai, Xiang},
+	  journal={SCIENCE CHINA Information Sciences},
+	  year={2020}
 	}
